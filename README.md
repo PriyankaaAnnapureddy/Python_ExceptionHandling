@@ -1,3 +1,5 @@
+Built_in Exceptions - https://docs.python.org/3/library/exceptions.html
+
 After completing this lab you will be able to:
 
 Understand exceptions
